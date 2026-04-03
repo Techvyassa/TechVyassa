@@ -7,7 +7,7 @@
 
 <!-- Typing animation (dynamic SVG). Edit the `lines` query to change the text. -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira%20Code&size=28&pause=1000&color=0F172A&width=760&height=60&lines=Tech+Vyassa+IT+Solutions;Enterprise+Business+Management+Products+%26+Solutions;We+Transform+Complex+IT+into+Real+Business+Value" alt="Typing SVG">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira%20Code&size=28&pause=1000&color=020ef2&width=760&height=60&lines=Tech+Vyassa+IT+Solutions;Enterprise+Business+Management+Products+%26+Solutions;We+Transform+Complex+IT+into+Real+Business+Value" alt="Typing SVG">
 </p>
 
 > A Global Leader in Enterprise Business Management Products & Solutions — delivering practical, scalable, AI-ready digital ecosystems.
